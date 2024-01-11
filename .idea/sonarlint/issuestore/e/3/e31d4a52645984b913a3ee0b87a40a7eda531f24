@@ -1,0 +1,10 @@
+
+q
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(º±Â÷ûÿÿÿÿ8”‹ùÇÏ1
+q
+java:S2095/"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(î²þûÿÿÿÿ8”‹ùÇÏ1
+v
+java:S3012#"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ïº·²8ÍðòÇÏ1
+c
+java:S62018"FReplace this instanceof check and cast with 'instanceof String string'(¿¥‹8ÐðòÇÏ1
+G	java:S106>"+Replace this use of System.out by a logger.(°¾¸õ8ÑðòÇÏ1

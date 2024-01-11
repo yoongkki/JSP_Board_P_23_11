@@ -27,3 +27,9 @@ U
 %src/webapp/views/elemnet/gugudan2.jsp,0\6\0631f45889fa4ae76c5d23d4be8cfbfc7d93b28a
 R
 "src/webapp/views/elemnet/index.jsp,9\d\9d39a303a01d0a1703ef5bf4f9aed3b372773a5c
+_
+/src/main/java/sbs/jsp/board/util/MysqlUtil.java,7\7\7753e255334b8ae8e05d62265e61bebc59d32ef6
+h
+8src/main/java/sbs/jsp/board/util/MysqlUtilException.java,e\7\e7af21341e98f534b23e173fed12c34cc3b80c74
+\
+,src/main/java/sbs/jsp/board/util/SecSql.java,e\3\e31d4a52645984b913a3ee0b87a40a7eda531f24
